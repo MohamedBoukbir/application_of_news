@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.linhtch90</groupId>
-	<artifactId>psn-backend</artifactId>
+	<artifactId>application_of_news</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>psn-backend</name>
 	<description>Parrot Social Network</description>
