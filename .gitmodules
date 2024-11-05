@@ -1,0 +1,6 @@
+[submodule "application_of_news_app_backend"]
+	path = application_of_news_app_backend
+	url = https://github.com/MohamedBoukbir/application_of_news.git
+[submodule "application_of_news_app_frontend"]
+	path = application_of_news_app_frontend
+	url = https://github.com/MohamedBoukbir/application_of_news.git
